@@ -819,6 +819,7 @@ p {
 }
 
 .overley {
+    font-weight: bold;
     font-size: 14px;
     line-height: 1.4;
     text-align: center;
